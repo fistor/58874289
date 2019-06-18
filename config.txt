@@ -1,6 +1,6 @@
 token=NTkwMzY2MzYzMzk5MjI1MzQ2.XQhhdA.TC3w39aZXfSl1gtGYkNu2ELARIM
 owner=353364320677265418
-prefix=f
+prefix=fis
 game=Arigato miboun
 stayinchannel=true 
 songinstatus=false  
